@@ -1,0 +1,40 @@
+---
+
+const { title, subtitle, values } = Astro.props
+
+---
+
+<section class="bs-container bs-mt-lg grid gap-4">
+
+  <div class="text-center">
+    {title && <h2 class="bs-h2" set:html={title} />}
+    {subtitle && <p class="bs-mt-sm max-w-3xl mx-auto" set:html={subtitle} />}
+  </div>
+
+  <div class="bs-mt-md grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+    {values.map(item => (
+      <div class="p-6 flex flex-col items-center text-center">
+        <div class="flex-shrink-0">
+          <img 
+            src={item.icon} 
+            alt={`Ikon untuk ${item.title}`} 
+            class="h-16 w-16"
+            width="64"
+            height="64"
+            loading="lazy"
+          >
+        </div>
+        
+        <div class="mt-4">
+          <h3 class="bs-h4 font-semibold">{item.title}</h3>
+        </div>
+
+        <div class="mt-2">
+          <p class="text-bs-text-muted">{item.description}</p>
+        </div>
+      </div>
+    ))}
+
+  </div>
+</section>

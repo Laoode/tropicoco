@@ -1,0 +1,21 @@
+{
+  "title": "Tentang TropiCoco",
+  "content": "TropiCoco hadir sebagai solusi pasokan kelapa berkualitas dari Sulawesi Tenggara. Kami berkomitmen mendukung industri pangan, kosmetik, dan energi terbarukan dengan produk kelapa terbaik langsung dari petani lokal. Website ini dibangun dengan <a href='https://astro.build/'>Astro</a> dan <a href='https://tailwindcss.com/'>Tailwind CSS</a> untuk performa dan keindahan maksimal.",
+  "list": [
+    {
+      "item": "Foto produk & ilustrasi diambil dari koleksi produksi TropiCoco dan sumber terpercaya."
+    },
+    {
+      "item": "Beberapa elemen ikon berasal dari <a href='https://icones.js.org/'>icones.js.org</a> oleh <a href='https://github.com/antfu'>@antfu</a>."
+    },
+    {
+      "item": "Slider & galeri didukung oleh <a href='https://swiperjs.com/'>SwiperJS</a>."
+    },
+    {
+      "item": "Font Inter digunakan dengan lisensi dari <a href='https://rsms.me/inter/'>rsms.me</a>."
+    },
+    {
+      "item": "Desain & pengembangan web oleh tim internal TropiCoco, terinspirasi untuk mendukung petani lokal."
+    }
+  ]
+}

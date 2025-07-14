@@ -1,0 +1,24 @@
+---
+import CardCaseStudy from './CardCaseStudy.astro'
+
+const { title, caseStudies } = Astro.props
+---
+
+<section class="bs-container bs-mt-lg" id="case-innovation">
+
+  <!-- Header -->
+  { title && <h2 class="bs-h2 text-center md:text-left">{ title }</h2> }
+
+  <!-- Featured Case Study (1 di atas) -->
+  <div class="bs-mt-md">
+    <CardCaseStudy caseStudy={ caseStudies[0] } />
+  </div>
+
+  <!-- 3 Case Studies bawah -->
+  <div class="mt-8 grid lg:grid-cols-3 gap-8">
+    <CardCaseStudy caseStudy={ caseStudies[1] } />
+    <CardCaseStudy caseStudy={ caseStudies[2] } />
+    <CardCaseStudy caseStudy={ caseStudies[3] } />
+  </div>
+
+</section>

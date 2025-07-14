@@ -1,0 +1,41 @@
+{
+  "title": "TropiCoco | Pemasok Kelapa Premium & Produk Turunan Kelapa",
+  "description": "TropiCoco menyediakan kelapa tua segar, VCO, kopra putih, dan arang cangkang berkualitas ekspor langsung dari perkebunan tropis Indonesia. Solusi bahan baku andal untuk industri makanan, kecantikan, energi, dan lebih banyak lagi.",
+  "social_image": "/favicon.svg",
+  "base_url": "https://tropicocoid.vercel.app/",
+  "demo": {
+    "title": "Butuh Kelapa?",
+    "content": "<strong>Get a guided tour through our services</strong>, and find out how you and your team can change the way you work, forever.",
+    "cta": "Hubungi Kami"
+  },
+  "theme_color": "#182c25",
+  "nav": [
+    {
+      "title": "Products",
+      "link": "/#products"
+    },
+    {
+      "title": "Case innovation",
+      "link": "/#case-innovation"
+    },
+    {
+      "title": "FAQ",
+      "link": "/#faq"
+    },
+    {
+      "title": "Contact",
+      "link": "/#contact-whatsapp"
+    }
+  ],
+
+  "social_links": [
+    {
+      "title": "Instagram",
+      "link": "https://www.instagram.com/__fuhrerr__/"
+    },
+    {
+      "title": "Email",
+      "link": "yudhyprayitno567@gmail.com:"
+    }
+  ]
+}

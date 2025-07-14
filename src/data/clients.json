@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Kualitas Terjamin",
+    "description": "Setiap produk kami, mulai dari kopra hingga minyak kelapa, dikontrol secara ketat untuk menjaga konsistensi kualitas tertinggi.",
+    "icon": "/content-images/quality-check.svg"
+  },
+  {
+    "title": "Sumber Tropis Terbaik",
+    "description": "Kami memproses kelapa pilihan yang berasal langsung dari perkebunan tropis terbaik di Sultra.",
+    "icon": "/content-images/coconut-tree.svg"
+  },
+  {
+    "title": "Pengiriman Andal",
+    "description": "Kami bekerja sama dengan jalur pengiriman terpercaya untuk memastikan produk sampai ke tangan Anda tepat waktu.",
+    "icon": "/content-images/shipping.svg"
+  },
+  {
+    "title": "Pasokan Fleksibel",
+    "description": "Siap melayani kebutuhan industri maupun rumah tangga, kami dapat memasok dalam jumlah kecil maupun besar.",
+    "icon": "/content-images/flexible-supply.svg"
+  },
+  {
+    "title": "Layanan Responsif",
+    "description": "Tim kami selalu siap membantu dan menjawab segala pertanyaan atau kebutuhan yang Anda miliki.",
+    "icon": "/content-images/customer-service.svg"
+  },
+  {
+    "title": "Produk Alami",
+    "description": "Diproses secara alami untuk memastikan Anda mendapatkan kebaikan murni dari setiap butir kelapa.",
+    "icon": "/content-images/natural-leaf.svg"
+  }
+]

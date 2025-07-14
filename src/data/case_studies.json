@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Segar & Berkualitas.<br>Kelapa Tua Premium.",
+    "sector": "Kelapa Asli",
+    "content": "<strong>Kelapa tua segar dengan daging tebal dan cita rasa gurih alami.</strong><br><br>Ideal untuk pasar konsumsi segar, kuliner tradisional, hingga bisnis makanan olahan. Langsung dipetik dari kebun terbaik di Sulawesi Tenggara, kesegaran terjamin sampai ke tangan Anda.",
+    "case_study_link": "https://www.antaranews.com/berita/4270815/sultra-ekspor-646-ton-kelapa-senilai-rp25-miliar-ke-tiongkok",
+    "cta": "Kelapa Sulawesi Tenggara",
+    "image": "/content-images/kelapa-tua.jpg",
+    "image_alt": "Irisan kelapa tua segar dengan air menetes",
+    "bg": "bg-gradient-to-r from-emerald-400 to-lime-400"
+  },
+  {
+    "title": "Murni & Alami.<br>Kebaikan dari Setiap Tetes.",
+    "sector": "Minyak Kelapa Murni (VCO)",
+    "content": "<strong>Minyak kelapa murni kami diproses secara higienis untuk menjaga nutrisi alaminya.</strong><br><br>Sangat baik untuk kesehatan, kecantikan, dan memasak, memberikan kualitas terbaik langsung dari perkebunan tropis untuk keluarga dan industri Anda.",
+    "case_study_link": "https://ciputrahospital.com/manfaat-minyak-kelapa/",
+    "cta": "Pelajari Manfaatnya",
+    "image": "/content-images/minyak-kelapa.png",
+    "image_alt": "Botol minyak kelapa murni dengan buah kelapa di sekitarnya",
+    "bg": "bg-gradient-to-r from-amber-300 to-lime-300"
+  },
+  {
+    "title": "Kualitas Terjamin.<br>Bahan Baku Industri Andal.",
+    "sector": "Kopra Putih",
+    "content": "Kami menyediakan kopra putih berkualitas tinggi sebagai bahan baku utama untuk industri minyak goreng, kosmetik, dan pakan ternak. Diproses dari kelapa pilihan untuk hasil terbaik.",
+    "case_study_link": "https://www.diklatkerja.com/blog/mengupas-tuntas-kopra-bahan-baku-penting-dari-kelapa",
+    "cta": "Lihat Spesifikasi",
+    "image": "/content-images/kopra.jpg",
+    "image_alt": "Tumpukan kopra putih yang sudah dikeringkan",
+    "bg": "bg-gradient-to-r from-orange-500 via-amber-300 to-yellow-500"
+  },
+  {
+    "title": "Inovasi Berkelanjutan.<br>Solusi Ramah Lingkungan.",
+    "sector": "Tempurung Kelapa",
+    "content": "Memanfaatkan setiap bagian kelapa, tempurung dapat diolah menjadi arang briket berkualitas ekspor dan bahan kerajinan unik. Solusi energi alternatif yang efisien dan ramah lingkungan.",
+    "case_study_link": "https://mediacenter.serdangbedagaikab.go.id/2022/10/15/memanfaatkan-tempurung-batok-kelapa/",
+    "cta": "Jelajahi Keuntungannya",
+    "image": "/content-images/cangkang-kelapa.jpg",
+    "image_alt": "Briket arang dari cangkang kelapa",
+    "bg": "bg-gradient-to-r from-green-300 to-cyan-400"
+  }
+]
