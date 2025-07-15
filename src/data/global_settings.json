@@ -1,12 +1,12 @@
 {
-  "title": "TropiCoco | Pemasok Kelapa Premium & Produk Turunan Kelapa",
-  "description": "TropiCoco menyediakan kelapa tua segar, VCO, kopra putih, dan tempurung kelapa berkualitas ekspor langsung dari perkebunan tropis Indonesia. Solusi bahan baku andal untuk industri makanan, kecantikan, energi, dan lebih banyak lagi.",
+  "title": "TropiCoco | Premium Coconut Supplier & Derivative Products",
+  "description": "TropiCoco supplies fresh mature coconuts, VCO, white copra, and export-grade coconut shells, sourced directly from Indonesia’s tropical plantations. Reliable raw materials for food, beauty, energy industries, and more.",
   "social_image": "/favicon.ico",
   "base_url": "https://tropicocoid.vercel.app/",
   "demo": {
-    "title": "Butuh Kelapa?",
-    "content": "<strong>Get a guided tour through our services</strong>, and find out how you and your team can change the way you work, forever.",
-    "cta": "Hubungi Kami"
+    "title": "Need Coconut?",
+    "content": "<strong>Get a guided tour of our products</strong> and see how we can help you and your business grow sustainably.",
+    "cta": "Contact Us"
   },
   "theme_color": "#182c25",
   "nav": [
@@ -15,8 +15,8 @@
       "link": "/#products"
     },
     {
-      "title": "Case innovation",
-      "link": "/#case-innovation"
+      "title": "Innovation",
+      "link": "/#innovation"
     },
     {
       "title": "FAQ",
@@ -31,11 +31,11 @@
   "social_links": [
     {
       "title": "Instagram",
-      "link": "https://www.instagram.com/__fuhrerr__/"
+      "link": "https://www.instagram.com/malawwahacoco/"
     },
     {
       "title": "Email",
-      "link": "yudhyprayitno567@gmail.com:"
+      "link": "mailto:malawwahacoco@gmail.com:"
     }
   ]
 }

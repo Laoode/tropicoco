@@ -4,9 +4,9 @@ import X from '../assets/theme-images/icon-x.svg'
 const { content } = Astro.props
 
 const newContent = {
-  title: "Pesan Produk via WhatsApp",
-  intro: "Lengkapi nama, usaha, dan detail pesanan Anda. Tombol di bawah akan membuka WhatsApp.",
-  cta: "Kirim Pesan WhatsApp"
+  title: "Order Products via WhatsApp",
+  intro: "Please fill in your name, business, and order details. The button below will open WhatsApp.",
+  cta: "Send WhatsApp Message"
 }
 ---
 
@@ -33,7 +33,7 @@ const newContent = {
         </svg>
         <span class="sr-only">Info</span>
         <div class="ms-3 text-sm font-medium">
-          Harap lengkapi semua kolom isian.
+          Please fill in all fields.
         </div>
         <button type="button" id="close-alert-btn" class="ms-auto -mx-1.5 -my-1.5 bg-blue-50 text-blue-500 rounded-lg focus:ring-2 focus:ring-blue-400 p-1.5 hover:bg-blue-200 inline-flex items-center justify-center h-8 w-8 dark:bg-gray-800 dark:text-blue-400 dark:hover:bg-gray-700" aria-label="Close">
           <span class="sr-only">Close</span>
@@ -44,28 +44,28 @@ const newContent = {
       </div>
       <!-- END ALERT -->
 
-      <label class="sr-only" for="name">Nama Anda</label>
+      <label class="sr-only" for="name">Your Name</label>
       <input
         id="name"
         type="text"
         class="border-2 rounded-lg bg-bs-surface-0 border-bs-surface-3 form-input px-4 py-3"
-        placeholder="Nama Anda"
+        placeholder="Your Name"
       />
 
-      <label class="sr-only" for="company">Nama Usaha</label>
+      <label class="sr-only" for="company">Business Name</label>
       <input
         id="company"
         type="text"
         class="border-2 rounded-lg bg-bs-surface-0 border-bs-surface-3 form-input px-4 py-3"
-        placeholder="Nama Usaha"
+        placeholder="Business Name"
       />
 
-      <label class="sr-only" for="message">Pesan Anda</label>
+      <label class="sr-only" for="message">Your Order</label>
       <textarea
         id="message"
         rows="4"
         class="border-2 rounded-lg bg-bs-surface-0 border-bs-surface-3 form-input px-4 py-3"
-        placeholder="Tulis pesanan Anda"
+        placeholder="Write your order"
       ></textarea>
 
       <button type="button" id="send-whatsapp-btn" class="bs-btn form-input px-4 py-3">

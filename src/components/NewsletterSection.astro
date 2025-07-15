@@ -14,7 +14,7 @@ const whatsAppNumber = "6282248474261";
   <div class="p-6 md:py-16 relative rounded-xl overflow-hidden flex justify-center isolate w-full h-full">
 
     <!-- BG image -->
-    <Image src={ bg_image } alt="Perkebunan kelapa dari atas" format="avif" height={1080} width={1920} class="rounded-xl overflow-hidden w-full h-full object-cover object-left absolute inset-0 opacity-50" />
+    <Image src={ bg_image } alt="Aerial view of coconut plantation" format="avif" height={1080} width={1920} class="rounded-xl overflow-hidden w-full h-full object-cover object-left absolute inset-0 opacity-50" />
 
     <!-- Content -->
     <div class="z-10 p-6 md:p-10 lg:p-20 rounded-xl md:max-w-lg flex flex-col gap-6 bg-bs-surface-0/95 h-full">
@@ -31,7 +31,7 @@ const whatsAppNumber = "6282248474261";
         <textarea
           id="wa-message"
           class="border-2 rounded-lg text-center bg-bs-surface-0 border-bs-surface-3 form-input px-4 py-3 min-h-[120px]"
-          placeholder="Tulis pertanyaan Anda di sini..."
+          placeholder="Write your question here..."
         ></textarea>
         <button id="send-wa-btn" class="bs-btn form-input px-4 py-3">
           { newsletter.cta }
@@ -62,7 +62,7 @@ const whatsAppNumber = "6282248474261";
           messageInput.value = "";
         } else {
           // Beri tahu pengguna jika belum menulis pesan
-          messageInput.placeholder = "Mohon tulis pertanyaan Anda terlebih dahulu!";
+          messageInput.placeholder = "Please write your question first!";
           messageInput.focus();
         }
       });

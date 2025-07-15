@@ -1,42 +1,42 @@
 [
   {
-    "title": "Segar & Berkualitas.<br>Kelapa Tua Premium.",
-    "sector": "Kelapa Asli",
-    "content": "<strong>Kelapa tua segar dengan daging tebal dan cita rasa gurih alami.</strong><br><br>Ideal untuk pasar konsumsi segar, kuliner tradisional, hingga bisnis makanan olahan. Langsung dipetik dari kebun terbaik di Sulawesi Tenggara, kesegaran terjamin sampai ke tangan Anda.",
+    "title": "Fresh & Premium.<br>High-Quality Mature Coconuts.",
+    "sector": "Raw Coconuts",
+    "content": "<strong>Fresh mature coconuts with thick meat and natural rich taste.</strong><br><br>Perfect for fresh consumption, traditional culinary use, or processed food businesses. Picked directly from the best farms in Southeast Sulawesi, guaranteed fresh to your hands.",
     "case_study_link": "https://www.antaranews.com/berita/4270815/sultra-ekspor-646-ton-kelapa-senilai-rp25-miliar-ke-tiongkok",
-    "cta": "Kelapa Sulawesi Tenggara",
+    "cta": "Southeast Sulawesi Coconuts",
     "image": "/content-images/kelapa-tua.jpg",
-    "image_alt": "Irisan kelapa tua segar dengan air menetes",
+    "image_alt": "Freshly sliced mature coconut with dripping water",
     "bg": "bg-gradient-to-r from-emerald-400 to-lime-400"
   },
   {
-    "title": "Murni & Alami.<br>Kebaikan dari Setiap Tetes.",
-    "sector": "Minyak Kelapa Murni (VCO)",
-    "content": "<strong>Minyak kelapa murni kami diproses secara higienis untuk menjaga nutrisi alaminya.</strong><br><br>Sangat baik untuk kesehatan, kecantikan, dan memasak, memberikan kualitas terbaik langsung dari perkebunan tropis untuk keluarga dan industri Anda.",
+    "title": "Pure & Natural.<br>Goodness in Every Drop.",
+    "sector": "Virgin Coconut Oil (VCO)",
+    "content": "<strong>Our virgin coconut oil is hygienically processed to keep its natural nutrients.</strong><br><br>Great for health, beauty, and cooking, bringing the best quality straight from tropical farms for your family or your business.",
     "case_study_link": "https://ciputrahospital.com/manfaat-minyak-kelapa/",
-    "cta": "Pelajari Manfaatnya",
+    "cta": "Learn the Benefits",
     "image": "/content-images/minyak-kelapa.png",
-    "image_alt": "Botol minyak kelapa murni dengan buah kelapa di sekitarnya",
+    "image_alt": "Bottle of virgin coconut oil with fresh coconuts around",
     "bg": "bg-gradient-to-r from-amber-300 to-lime-300"
   },
   {
-    "title": "Kualitas Terjamin.<br>Bahan Baku Industri Andal.",
-    "sector": "Kopra Putih",
-    "content": "Kami menyediakan kopra putih berkualitas tinggi sebagai bahan baku utama untuk industri minyak goreng, kosmetik, dan pakan ternak. Diproses dari kelapa pilihan untuk hasil terbaik.",
+    "title": "Trusted Quality.<br>Reliable Industrial Supply.",
+    "sector": "White Copra",
+    "content": "We supply high-quality white copra as a key raw material for cooking oil, cosmetics, and animal feed industries. Made from carefully selected coconuts for the best results.",
     "case_study_link": "https://www.diklatkerja.com/blog/mengupas-tuntas-kopra-bahan-baku-penting-dari-kelapa",
-    "cta": "Lihat Spesifikasi",
+    "cta": "See Specifications",
     "image": "/content-images/kopra.jpg",
-    "image_alt": "Tumpukan kopra putih yang sudah dikeringkan",
+    "image_alt": "Pile of dried white copra",
     "bg": "bg-gradient-to-r from-orange-500 via-amber-300 to-yellow-500"
   },
   {
-    "title": "Inovasi Berkelanjutan.<br>Solusi Ramah Lingkungan.",
-    "sector": "Tempurung Kelapa",
-    "content": "Memanfaatkan setiap bagian kelapa, tempurung dapat diolah menjadi arang briket berkualitas ekspor dan bahan kerajinan unik. Solusi energi alternatif yang efisien dan ramah lingkungan.",
+    "title": "Sustainable Innovation.<br>Eco-Friendly Solutions.",
+    "sector": "Coconut Shell",
+    "content": "We use every part of the coconut — shells can be turned into high-grade charcoal briquettes and unique handicrafts. An efficient, eco-friendly alternative energy solution.",
     "case_study_link": "https://mediacenter.serdangbedagaikab.go.id/2022/10/15/memanfaatkan-tempurung-batok-kelapa/",
-    "cta": "Jelajahi Keuntungannya",
+    "cta": "Discover the Benefits",
     "image": "/content-images/cangkang-kelapa.jpg",
-    "image_alt": "Briket arang dari cangkang kelapa",
+    "image_alt": "Charcoal briquettes made from coconut shells",
     "bg": "bg-gradient-to-r from-green-300 to-cyan-400"
   }
 ]
