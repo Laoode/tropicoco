@@ -1,0 +1,61 @@
+[
+  {
+    "id": "kelapa-tua",
+    "name": "Fresh Mature Coconuts",
+    "description": "Premium mature coconuts sourced from Southeast Sulawesi, perfect for fresh consumption or cooking.",
+    "specs": [
+      "Age: 12 months",
+      "Meat: Thick, white, dense",
+      "Weight: 0.8–1.0 kg per nut"
+    ],
+    "packaging": [
+      "Packed individually in burlap sacks",
+      "Weight per sack: 15–25 kg",
+      "Quantity per sack: 15–30 nuts"
+    ]
+  },
+  {
+    "id": "minyak-kelapa",
+    "name": "Virgin Coconut Oil - VCO",
+    "description": "Hygienically processed to retain its natural nutrients, ideal for health, beauty, and cooking.",
+    "specs": [
+      "Type: Virgin oil, cold-pressed",
+      "Moisture Content: < 0.1%",
+      "Free Fatty Acid: < 0.1%",
+      "Color: Clear, with natural coconut aroma",
+      "Melting Point: 24°C"
+    ],
+    "packaging": [
+      "250 ml glass bottle",
+      "1 liter PET bottle"
+    ]
+  },
+  {
+    "id": "kopra-putih",
+    "name": "White Copra",
+    "description": "High-quality white copra, the main raw material for cooking oil, cosmetics, and animal feed.",
+    "specs": [
+      "Moisture Content: 4–6%",
+      "Oil Content: 65–70%",
+      "Free Fatty Acid: < 1%",
+      "Color: White",
+      "Size: Half-shell pieces (8–10 cm)"
+    ],
+    "packaging": [
+      "50 kg burlap sack"
+    ]
+  },
+  {
+    "id": "tempurung-kelapa",
+    "name": "Coconut Shell",
+    "description": "Eco-friendly coconut shells for charcoal briquette production and handicrafts.",
+    "specs": [
+      "Size: 10–20 cm diameter",
+      "Color: Brown",
+      "Moisture Content: Low"
+    ],
+    "packaging": [
+      "50 kg burlap sack"
+    ]
+  }
+]

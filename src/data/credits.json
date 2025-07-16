@@ -1,9 +1,9 @@
 {
-  "title": "About TropiCoco",
-  "content": "TropiCoco is here to supply high-quality coconuts from Southeast Sulawesi. We are committed to supporting the food, cosmetics, and renewable energy industries with the best coconut products direct from local farmers. This website is built with <a href='https://astro.build/'>Astro</a> and <a href='https://tailwindcss.com/'>Tailwind CSS</a> for top performance and clean design.",
+  "title": "About MalwaCoco",
+  "content": "MalwaCoco is here to supply high-quality coconuts from Southeast Sulawesi. We are committed to supporting the food, cosmetics, and renewable energy industries with the best coconut products direct from local farmers. This website is built with <a href='https://astro.build/'>Astro</a> and <a href='https://tailwindcss.com/'>Tailwind CSS</a> for top performance and clean design.",
   "list": [
     {
-      "item": "Product photos and illustrations are from TropiCoco’s production collection and trusted sources."
+      "item": "Product photos and illustrations are from MalwaCoco’s production collection and trusted sources."
     },
     {
       "item": "Some icon elements are from <a href='https://icones.js.org/'>icones.js.org</a> by <a href='https://github.com/antfu'>@antfu</a>."
@@ -15,7 +15,7 @@
       "item": "Inter font is used under license from <a href='https://rsms.me/inter/'>rsms.me</a>."
     },
     {
-      "item": "Website design and development by TropiCoco’s in-house team, inspired to support local farmers."
+      "item": "Website design and development by MalwaCoco’s in-house team, inspired to support local farmers."
     }
   ]
 }
