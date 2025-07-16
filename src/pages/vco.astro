@@ -5,7 +5,7 @@ import X from '../assets/theme-images/icon-x-white.svg'
 const product = productSpecs.find(p => p.id === 'minyak-kelapa')
 ---
 
-<Layout title={product ? product.name : 'Product Specification'} bgImage={import.meta.glob("../assets/theme-images/wallpaper-coconut-oil.jpg", {eager: true, import: 'default'})["../assets/theme-images/wallpaper-coconut-oil.jpg"]}>
+<Layout title={product ? product.name : 'Product Specification'} bgImage={import.meta.glob("../assets/theme-images/wallpaper-coconut-oil.avif", {eager: true, import: 'default'})["../assets/theme-images/wallpaper-coconut-oil.avif"]}>
   <section class="max-w-[92vw] lg:max-w-4xl mx-auto bs-mt-md px-5 py-8 md:p-20 flex flex-col gap-3 justify-between border rounded-md bg-bs-surface-2 border-bs-surface-3 relative [&_a]:underline [&_a]:underline-offset-4 [&_a]:decoration-bs-foreground-dark/80 [&_a]:hover:decoration-bs-foreground-light">
     <!-- Tombol Close -->
     <a href="/" class="absolute top-4 right-4 z-20 p-2 rounded-full hover:bg-bs-surface-3 transition" aria-label="Close">
