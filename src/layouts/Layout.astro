@@ -30,6 +30,10 @@ const { title, description, bgImage } = Astro.props
 
     <title>{ title ?? global_settings.title }</title>
 
+    <!-- Favicon & Icons -->
+    <link rel="icon" type="image/png" sizes="192x192" href="/192.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="512x512" href="/512.png" />
     <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
     <link rel="manifest" href="/manifest.json" />
 
@@ -42,6 +46,17 @@ const { title, description, bgImage } = Astro.props
       property="og:image"
       content={ global_settings.base_url + global_settings.social_image }
     />
+
+    <!-- Structured Data for Google Logo -->
+    <script type="application/ld+json">
+      {JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": global_settings.title,
+        "url": global_settings.base_url,
+        "logo": global_settings.base_url + "/apple-touch-icon.png"
+      })}
+    </script>
 
     <Font cssVariable="--font-inter" preload />
     <Font cssVariable="--font-inter-display" preload />
