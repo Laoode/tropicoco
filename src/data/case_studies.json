@@ -5,9 +5,9 @@
     "content": "<strong>Fresh mature coconuts with thick meat and natural rich taste.</strong><br><br>Perfect for fresh consumption, traditional culinary use, or processed food businesses. Picked directly from the best farms in Southeast Sulawesi, guaranteed fresh to your hands.",
     "case_study_link": "/coconut",
     "cta": "See Specifications",
-    "image": "/content-images/kelapa-tua.avif",
+    "image": "/content-images/coconut.avif",
     "image_alt": "Freshly sliced mature coconut with dripping water",
-    "bg": "bg-gradient-to-r from-emerald-400 to-lime-400"
+    "bg": "bg-linear-to-r from-lime-500 via-green-500 to-emerald-500"
   },
   {
     "title": "Pure & Natural.<br>Goodness in Every Drop.",
@@ -15,9 +15,9 @@
     "content": "<strong>Our virgin coconut oil is hygienically processed to keep its natural nutrients.</strong><br><br>Great for health, beauty, and cooking, bringing the best quality straight from tropical farms for your family or your business.",
     "case_study_link": "/vco",
     "cta": "See Specifications",
-    "image": "/content-images/minyak-kelapa.avif",
+    "image": "/content-images/vco.avif",
     "image_alt": "Bottle of virgin coconut oil with fresh coconuts around",
-    "bg": "bg-gradient-to-r from-amber-300 to-lime-300"
+    "bg": "bg-linear-to-r from-yellow-500 via-lime-500 to-green-500"
   },
   {
     "title": "Trusted Quality.<br>Reliable Industrial Supply.",
@@ -25,9 +25,9 @@
     "content": "We supply high-quality white copra as a key raw material for cooking oil, cosmetics, and animal feed industries. Made from carefully selected coconuts for the best results.",
     "case_study_link": "/copra",
     "cta": "See Specifications",
-    "image": "/content-images/kopra.avif",
+    "image": "/content-images/copra.avif",
     "image_alt": "Pile of dried white copra",
-    "bg": "bg-gradient-to-r from-orange-500 via-amber-300 to-yellow-500"
+    "bg": "bg-linear-to-r from-yellow-200 via-lime-400 to-green-600"
   },
   {
     "title": "Sustainable Innovation.<br>Eco-Friendly Solutions.",
@@ -35,8 +35,8 @@
     "content": "We use every part of the coconut — shells can be turned into high-grade charcoal briquettes and unique handicrafts. An efficient, eco-friendly alternative energy solution.",
     "case_study_link": "/shells",
     "cta": "See Specifications",
-    "image": "/content-images/cangkang-kelapa.avif",
+    "image": "/content-images/shells.avif",
     "image_alt": "Charcoal briquettes made from coconut shells",
-    "bg": "bg-gradient-to-r from-green-300 to-cyan-400"
+    "bg": "bg-linear-to-r from-lime-200 via-green-400 to-emerald-600"
   }
 ]
